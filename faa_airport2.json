@@ -2,8 +2,8 @@
    "swagger":"2.0",
    "info":{  
       "title":"Airport Status Info",
-      "description":"Service/API provides airport weather and delays",
-      "version":"1.0"
+      "description":"Provides airport weather and delays",
+      "version":"1"
    },
    "host":"services.faa.gov",
    "basePath":"/airport",
